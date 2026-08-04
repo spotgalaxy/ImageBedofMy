@@ -1,0 +1,8 @@
+/images/*.png
+  Content-Type: image/png
+/images/*.jpg
+  Content-Type: image/jpeg
+/images/*.webp
+  Content-Type: image/webp
+/*.css
+  Content-Type: text/css; charset=utf-8
